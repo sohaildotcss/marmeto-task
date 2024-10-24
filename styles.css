@@ -109,11 +109,7 @@ nav ul li a {
 .cart-item tr {
 	display: flex;
 }
-.cart-item img {
-	width: 15px;
-	height: 15px;
-	background-color: red;
-}
+
 .cart-item:last-child td button {
 	cursor: pointer;
 }
